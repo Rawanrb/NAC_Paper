@@ -9,8 +9,7 @@ Neoadjuvant Chemotherapy (NAC) is a commonly employed treatment strategy for pat
 
 ## Software implementation
 
-The source code used to generate the results in the paper is in
-the `code` folder.
+The source code used to generate the results in the paper is provided as separate files for each process, which can be run separately to create graphs, calculate scores, and finally make the statistical calculations with NAC response metrics.
 
 ## Getting the code
 
